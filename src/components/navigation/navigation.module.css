@@ -1,0 +1,8 @@
+.navUl {
+  display: inline-block;
+  background-color: aquamarine;
+}
+
+.navUl li {
+  padding: 12px;
+}
